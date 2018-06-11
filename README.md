@@ -1,24 +1,31 @@
-### Workflow tooling
+# Components
+This repo serves as a bin for components that we find useful and highly repeatable. It's a good practice to focus on developing existing base, polishing ideas rather than rewriting it all from scratch with every next project. Feel free to use the snippets in your own projects or to make a PR with something intresting discovered in your daily workflows.
+
+## TODO
+Every project starts somewhere. Here is a categorized todo list for things we plan to have in our toolbelt. They mostly exists in our projects and need to be ported here for better exposition.
+
+[Workflow tooling]
+- [ ] Prepare component based architecture for this project
 - [ ] Webpack config
 
-### Defaults
+[Defaults]
 - [ ] Font definitions
 - [ ] Variables
 - [ ] Reset - hard core strip, never depend on tag styling
 - [ ] Base - set reasonable defaults that cascade (body) or globally (*), make very carefull exceptions from 'never style a tag' rule
 
-### Layout
+[Layout]
 - [ ] Grid + it's items
 - [ ] Container
 - [ ] Side-panel - half screen panel with side text aligned with container
 - [ ] Ratio - aspect ratio
 
-### Out of Flow
+[Out of Flow]
 - [ ] Flyout
 - [ ] Modal
 - [ ] Notification
 
-### Forms
+[Forms]
 - [ ] Form
 - [ ] Select
 - [ ] Input 
@@ -27,7 +34,7 @@
 - [ ] Button
 - [ ] Validation - native html5 with js hooks
 
-### Navigation
+[Navigation]
 - [ ] Nav with dropdowns
 - [ ] Buttons group
 - [ ] Pagination (ordered, for listings)
@@ -35,17 +42,17 @@
 - [ ] Tabs
 - [ ] Carousel
 
-### Media
+[Media]
 - [ ] Svg / icon solution
 - [ ] Img - with srcset, sizes, lazyload etc
 - [ ] Map - google map init with custom styling, markers and marker pop up
 - [ ] Video
 
-### Scroll
+[Scroll]
 - [ ] Vieport hook classes - for enter animation etc
 - [ ] ScrollTo
 - [ ] Scroll control - disable / enable
 - [ ] fake scroll on top of native (hidden overflow)
 
-### WP Specific
+[WP Specific]
 - [ ] jetpack images
