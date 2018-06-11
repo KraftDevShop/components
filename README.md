@@ -4,28 +4,28 @@ This repo serves as a bin for components that we find useful and highly repeatab
 ## TODO
 Every project starts somewhere. Here is a categorized todo list for things we plan to have in our toolbelt. They mostly exists in our projects and need to be ported here for better exposition.
 
-[Workflow tooling]
+__Workflow tooling__
 - [ ] Prepare component based architecture for this project
 - [ ] Webpack config
 
-[Defaults]
+__Defaults__
 - [ ] Font definitions
 - [ ] Variables
 - [ ] Reset - hard core strip, never depend on tag styling
 - [ ] Base - set reasonable defaults that cascade (body) or globally (*), make very carefull exceptions from 'never style a tag' rule
 
-[Layout]
+__Layout__
 - [ ] Grid + it's items
 - [ ] Container
 - [ ] Side-panel - half screen panel with side text aligned with container
 - [ ] Ratio - aspect ratio
 
-[Out of Flow]
+__Out of Flow__
 - [ ] Flyout
 - [ ] Modal
 - [ ] Notification
 
-[Forms]
+__Forms__
 - [ ] Form
 - [ ] Select
 - [ ] Input 
@@ -34,7 +34,7 @@ Every project starts somewhere. Here is a categorized todo list for things we pl
 - [ ] Button
 - [ ] Validation - native html5 with js hooks
 
-[Navigation]
+__Navigation__
 - [ ] Nav with dropdowns
 - [ ] Buttons group
 - [ ] Pagination (ordered, for listings)
@@ -42,17 +42,17 @@ Every project starts somewhere. Here is a categorized todo list for things we pl
 - [ ] Tabs
 - [ ] Carousel
 
-[Media]
+__Media__
 - [ ] Svg / icon solution
 - [ ] Img - with srcset, sizes, lazyload etc
 - [ ] Map - google map init with custom styling, markers and marker pop up
 - [ ] Video
 
-[Scroll]
+__Scroll__
 - [ ] Vieport hook classes - for enter animation etc
 - [ ] ScrollTo
 - [ ] Scroll control - disable / enable
 - [ ] fake scroll on top of native (hidden overflow)
 
-[WP Specific]
+__WP Specific__
 - [ ] jetpack images
