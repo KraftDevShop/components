@@ -1,0 +1,20 @@
+.demo {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  padding: 150px 0;
+
+  &::before {
+    content: attr(data-name);
+    position: absolute;
+    top: 50px;
+    left: 0;
+    font-size: 100px;
+    font-weight: 900;
+    text-transform: uppercase;
+    color: rgb(245,245,245);
+  }
+}
