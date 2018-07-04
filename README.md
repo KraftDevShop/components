@@ -6,7 +6,7 @@ Every project starts somewhere. Here is a categorized todo list for things we pl
 
 __Workflow tooling__
 - [ ] Prepare component based architecture for this project
-- [ ] Webpack config
+- [x] Webpack config
 
 __Defaults__
 - [ ] Font definitions
