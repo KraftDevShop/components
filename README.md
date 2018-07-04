@@ -5,7 +5,7 @@ This repo serves as a bin for components that we find useful and highly repeatab
 Every project starts somewhere. Here is a categorized todo list for things we plan to have in our toolbelt. They mostly exists in our projects and need to be ported here for better exposition.
 
 __Workflow tooling__
-- [ ] Prepare component based architecture for this project
+- [x] Prepare component based architecture for this project
 - [x] Webpack config
 
 __Defaults__
