@@ -1,0 +1,18 @@
+// Match your button face with CTA buttons or most common ones.
+
+.button {
+  $bg: #07ace0;
+  $color: #fff;
+
+  display: inline-flex;
+  align-items: center;
+  padding: 15px 30px;
+  background: $bg;
+  border: solid 1px transparent;
+  letter-spacing: 1px;
+  font-size: 12px;
+  font-weight: 700;
+  color: $color;
+  white-space: nowrap;
+  text-transform: uppercase;
+}

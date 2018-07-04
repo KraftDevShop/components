@@ -30,7 +30,7 @@ __Forms__
 - [ ] Input 
 - [ ] Checkbox
 - [ ] Radio
-- [ ] Button
+- [X] Button
 - [ ] Validation - native html5 with js hooks
 
 __Navigation__
