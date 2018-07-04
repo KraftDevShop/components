@@ -11,8 +11,7 @@ __Workflow tooling__
 __Defaults__
 - [ ] Font definitions
 - [ ] Variables
-- [ ] Reset - hard core strip, never depend on tag styling
-- [ ] Base - set reasonable defaults that cascade (body) or globally (*), make very carefull exceptions from 'never style a tag' rule
+- [x] Reset - hard core strip, never depend on tag styling
 
 __Layout__
 - [ ] Grid + it's items
